@@ -3,14 +3,11 @@
 First Mobile App
 
 ### App Description
-`TODO://` App allows you to display user name, change background color and color of text by clicking on the appropriate button.  It also allows you to create custom text.
+App allows you to display user name, change background color and color of text by clicking on the appropriate button.  It also allows you to create custom text.
 
 ### App Walk-though
-`TODO://`
 
 <img src="http://g.recordit.co/G92bEk02FF.gif" width=200><br>
-
-`TODO://`
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
